@@ -37,7 +37,7 @@ local Button = Tab:CreateButton({
 
 
 local Button = Tab:CreateButton({
-   Name = "(❌صيد باونتي (❌ممنوع",
+   Name = "❌صيد باونتي❌",
    Callback = function()getgenv()
    -- The function that takes place when the button is pressed
    end,
