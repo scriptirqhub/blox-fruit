@@ -29,7 +29,7 @@ local Tab = Window:CreateTab("blox fruit", 4483362458) -- Title, Image
 
 local Button = Tab:CreateButton({
    Name = "redz",
-   Callback = function()loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+   Callback = function()loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
    -- The function that takes place when the button is pressed
    end,
 })
